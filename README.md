@@ -1,0 +1,2 @@
+# WatchPortalFunction
+Azure function
